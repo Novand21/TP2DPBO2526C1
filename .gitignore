@@ -1,0 +1,16 @@
+# Ignore everything by default
+*
+# allow git to scan every directory
+!*/
+
+# include these files
+!*.cpp
+!*.py
+!*.java
+!*.php
+!test.txt
+!**/img/**
+
+
+!.gitignore
+!README.md
