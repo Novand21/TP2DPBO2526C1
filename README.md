@@ -56,3 +56,24 @@ Program ini menggunakan konsep **Multilevel Inheritance** yang terdiri dari 3 hi
 
 4. **Alur Menampilkan Tabel Dinamis (Show):** Program mengeksekusi algoritma pencarian string terpanjang pada tiap kolom untuk menentukan `width` masing-masing kolom, kemudian mencetak seluruh data.
 
+## DEMO
+
+# Python
+https://github.com/user-attachments/assets/07b7be3c-0e34-400b-9824-0e17aa9b8a28
+
+# c++
+https://github.com/user-attachments/assets/69719339-e654-4956-9b16-17aa4b8309be
+
+# java
+https://github.com/user-attachments/assets/c471a887-a501-4318-b767-4c5a5468d471
+
+# PHP
+<img width="1917" height="831" alt="php" src="https://github.com/user-attachments/assets/fec1ba69-7dca-4bac-9cba-70f53a32de08" />
+
+
+
+
+
+
+
+
